@@ -1,0 +1,16 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "One Dark Pro",
+    "vim.disableAnnoyingNeovimMessage": true,
+    "editor.fontSize": 20,
+    "files.eol": "\n",
+    "vim.useCtrlKeys": false,
+    "terminal.integrated.fontSize": 18,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\sysnative\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/K",
+        "D:\\Dev\\cmder\\vscode.bat"
+    ],
+    "editor.fontFamily": "'Source Code Pro', Consolas, 'Courier New', monospace",
+    "terminal.integrated.cursorBlinking": true
+}
